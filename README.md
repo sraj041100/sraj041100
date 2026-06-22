@@ -24,10 +24,10 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/sraj04)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/sraj041100)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sraj04)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivamraj041100@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sraj04)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sraj041100)
 
 </div>
 
@@ -45,7 +45,7 @@
 
 ## `{ about_me }` &nbsp;⟶&nbsp; Who I Am
 
-<img align="right" width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sraj04&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=7C3AED&text_color=c4b5fd&langs_count=8" />
+<img align="right" width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sraj041100&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=7C3AED&text_color=c4b5fd&langs_count=8" />
 
 I'm a **Software Engineer** and **MCA candidate at Patna University**, driven by a relentless curiosity to turn ideas into elegant, production-grade software. My foundation in Computer Application sciences is complemented by hands-on expertise spanning the full engineering lifecycle — from architecting relational database schemas and designing intuitive front-end interfaces, to orchestrating digital presence through performance-driven SEO and marketing automation.
 
@@ -142,7 +142,7 @@ Beyond development, I bring a rare synthesis of **technical depth and marketing 
 | **Security** | Role-specific module access, authenticated session management |
 | **Data Integrity** | Proof document upload, audit trails, structured report generation |
 | **Impact** | Eliminated manual grievance tracking; enabled end-to-end digital resolution workflow |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sraj04) |
+| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sraj041100) |
 
 <br/>
 
@@ -337,8 +337,8 @@ open_to:
 |:---------|:-------|:--------|
 | [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivamraj041100@gmail.com) | shivamraj041100@gmail.com | Professional inquiries & collaboration |
 | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sraj04) | /in/sraj04 | Networking & career opportunities |
-| [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sraj04) | @sraj04 | Code, projects & open source |
-| [![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/sraj04) | sraj04.dev | Work, case studies & writing |
+| [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sraj041100) | @sraj04 | Code, projects & open source |
+| [![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/sraj041100) | sraj04.dev | Work, case studies & writing |
 
 </div>
 
