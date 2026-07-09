@@ -1,4 +1,4 @@
-[<div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=280&section=header&text=Shivam%20Raj&fontSize=70&fontColor=C9A9FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20%26%20AI%2FML%20Developer&descAlignY=55&descAlign=50" width="100%"/>
 
