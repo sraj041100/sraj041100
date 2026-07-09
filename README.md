@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=280&section=header&text=Shivam%20Raj&fontSize=70&fontColor=C9A9FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20%26%20AI%2FML%20Developer&descAlignY=55&descAlign=50" width="100%"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=280&section=header&text=Shivam%20Raj&fontSize=70&fontColor=C9A9FF" />
+</p>
 
 <a href="https://github.com/sraj041100">
   <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Software+Developer;MERN+Stack+%26+.NET+Developer;AI%2FML+%2F+Computer+Vision+Enthusiast;Building+Scalable+Products;Open+to+Software+Engineering+Roles&font=Fira+Code&center=true&width=600&height=50&color=B197FC&vCenter=true&size=24&pause=1200&background=00000000" alt="Typing SVG"/>
