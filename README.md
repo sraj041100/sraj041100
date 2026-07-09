@@ -1,24 +1,244 @@
-# 💫 About Me:
-👋 MCA Student | Full-Stack Developer from India 🇮🇳<br>💻 MERN Stack Developer & C#/.NET Developer<br>🏥 Currently working on a Doctor Clinic Management internship at NIT Patna.<br>🌱 Learning Machine Learning, System Design, and Cloud Technologies<br>💼 Actively seeking Software Developer, Full-Stack, and .NET opportunities<br>🤝 Open to collaborations and internship opportunities<br>💬 Ask me about MERN, React, Node.js, C#, SQL, and Python<br>⚡ Passionate about solving real-world problems through technology
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=280&section=header&text=Shivam%20Raj&fontSize=70&fontColor=C9A9FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20%26%20AI%2FML%20Developer&descAlignY=55&descAlign=50" width="100%"/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sraj04) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivamraj041100@gmail.com) 
+<a href="https://github.com/sraj041100">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Software+Engineer;MERN+Stack+%26+.NET+Developer;AI%2FML+%2F+Computer+Vision+Enthusiast;Building+Scalable+Products;Open+to+Software+Engineering+Roles&font=Fira+Code&center=true&width=600&height=50&color=B197FC&vCenter=true&size=24&pause=1200&background=00000000" alt="Typing SVG"/>
+</a>
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=sraj041100&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=sraj041100&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=sraj041100&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sraj041100&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<img src="https://img.shields.io/badge/MCA-Computer%20Applications-6C4AB6?style=for-the-badge&labelColor=1a1a2e&color=6C4AB6"/>
+<img src="https://img.shields.io/badge/Location-Patna,%20India-6C4AB6?style=for-the-badge&labelColor=1a1a2e&color=8B5CF6"/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br/><br/>
+
+<a href="https://github.com/sraj041100"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="https://linkedin.com/in/sraj04"><img src="https://img.shields.io/badge/LinkedIn-6C4AB6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="mailto:shivamraj041100@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="https://github.com/sraj041100"><img src="https://img.shields.io/badge/GitHub-9333EA?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=sraj041100&label=Profile%20Views&color=6c4ab6&style=flat-square"/>
+<img src="https://img.shields.io/github/followers/sraj041100?label=Followers&style=flat-square&color=8b5cf6&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/github/stars/sraj041100?label=Stars&style=flat-square&color=b197fc&labelColor=1a1a2e"/>
+
+</div>
+
+<br/>
 
 ---
-[![](https://komarev.com/ghpvc/?username=sraj041100&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+
+<img align="right" width="38%" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/>
+
+I'm **Shivam Raj**, a Full-Stack Software Engineer and MCA student from Patna, India, focused on building reliable, production-grade software across the **MERN stack** and **.NET/C# ecosystem**. My engineering approach blends clean architecture, secure authentication design, and a strong product mindset — I care as much about *why* a feature exists as *how* it's built.
+
+I'm currently deepening my expertise in **Machine Learning, Computer Vision, and System Design**, applying AI techniques to real-world problems such as gesture recognition and healthcare workflow digitization. I enjoy owning problems end-to-end — from database schema to UI polish to deployment.
+
+```yaml
+Role: Full-Stack Software Engineer (MERN & .NET)
+Focus: AI/ML · Computer Vision · System Design · Cloud
+Currently: Interning on a Doctor Clinic Management System @ NIT Patna
+Mindset: Ship clean, secure, scalable, product-first software
+```
+
+**🟣 Open To:**
+`Software Development Engineer Roles` · `Full-Stack Engineering` · `.NET / MERN Opportunities` · `AI/ML Collaborations` · `Open Source Contributions` · `Internships`
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=cs,py,js,html,css&theme=dark"/>
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,html,bootstrap,tailwind&theme=dark"/>
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,mongodb,mysql&theme=dark"/>
+
+**Cloud, DevOps & Tooling**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,wordpress&theme=dark"/>
+
+**AI / ML**
+
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv,&theme=dark"/>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<details>
+<summary><b>🎓 CGMS — Complaint & Grievance Management System</b></summary>
+<br/>
+
+A full-stack web application for digitizing and managing student grievances, featuring secure authentication, complaint tracking, and an intuitive admin dashboard.
+
+| Category | Details |
+|---|---|
+| **Stack** | JavaScript, Node.js, Express, MongoDB, React |
+| **Scale** | Multi-role system (Student / Admin) with end-to-end complaint lifecycle |
+| **Performance** | Optimized REST APIs with indexed MongoDB queries |
+| **Security** | Secure authentication & role-based access control |
+| **Impact** | Digitized manual grievance workflows for institutional use |
+| **Repository** | [github.com/sraj041100/CGMS](https://github.com/sraj041100/CGMS) |
+
+CGMS replaces a manual, paper-based grievance process with a structured digital workflow — enabling students to raise, track, and resolve complaints transparently while giving administrators a centralized dashboard for oversight and reporting.
+
+</details>
+
+<details>
+<summary><b>🤟 Sign Language Translator</b></summary>
+<br/>
+
+A real-time sign language recognition system that translates hand gestures into text using Computer Vision and Deep Learning techniques.
+
+| Category | Details |
+|---|---|
+| **Stack** | Python, OpenCV, TensorFlow/Keras, NumPy |
+| **Scale** | Real-time video-stream inference pipeline |
+| **Performance** | Low-latency gesture-to-text translation |
+| **Security** | Local on-device inference, no external data transmission |
+| **Impact** | Improves accessibility for sign-language communication |
+| **Repository** | [github.com/sraj041100/Sign-Language-Translator](https://github.com/sraj041100/Sign-Language-Translator) |
+
+Built to bridge communication gaps, this project captures live hand gestures via webcam, extracts key visual features, and classifies them into text output using a trained deep learning model — demonstrating applied computer vision in an accessibility-focused product.
+
+</details>
+
+<details>
+<summary><b>🏥 Doctor Clinic Management System</b></summary>
+<br/>
+
+An internship project at NIT Patna focused on digitizing clinic operations — appointment scheduling, patient records, and doctor availability management.
+
+| Category | Details |
+|---|---|
+| **Stack** | .NET / C#, SQL Server, React |
+| **Scale** | Multi-user clinic operations platform |
+| **Performance** | Structured relational schema for fast record retrieval |
+| **Security** | Role-based access for doctors, staff, and administrators |
+| **Impact** | Streamlines patient management for healthcare providers |
+| **Repository** | *Private / Internal Institutional Project* |
+
+Designed as part of an ongoing internship, the system focuses on reducing administrative overhead in clinics by centralizing patient data, scheduling, and reporting into a single secure application.
+
+</details>
+
+---
+
+## 💼 Experience
+
+**Software Development Intern · NIT Patna**
+`[Add Start Date] – Present`
+
+Working on a Doctor Clinic Management System, building full-stack features that digitize clinic operations end-to-end.
+
+- Designed and implemented core application modules using .NET/C# and SQL Server
+- Built responsive front-end interfaces for appointment scheduling and patient management
+- Collaborated on secure authentication and role-based access control
+- Participated in code reviews and iterative feature delivery
+
+`C#` `.NET` `SQL Server` `React` `Git`
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sraj041100&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=B197FC&icon_color=8B5CF6&text_color=C9C9E9&include_all_commits=true&count_private=true" width="48%"/>
+<img src="https://streak-stats.demolab.com/?user=sraj041100&theme=radical&hide_border=true&background=0D0221&ring=8B5CF6&fire=B197FC&currStreakLabel=B197FC" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sraj041100&layout=compact&theme=radical&hide_border=true&bg_color=0D0221&title_color=B197FC&text_color=C9C9E9" width="48%"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sraj041100&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sraj041100&theme=react-dark&bg_color=0D0221&color=B197FC&line=8B5CF6&point=C9A9FF&hide_border=true"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sraj041100/sraj041100/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```yaml
+Learning:
+  - Machine Learning & Deep Learning Fundamentals
+  - System Design & Distributed Architecture
+  - Cloud Technologies (AWS / Azure)
+
+Building:
+  - Doctor Clinic Management System (.NET, React, SQL Server)
+  - AI-powered accessibility tools (Computer Vision)
+
+Exploring:
+  - Scalable backend architecture patterns
+  - MLOps & model deployment pipelines
+
+Open To:
+  - Software Engineering Roles
+  - Full-Stack & .NET Opportunities
+  - AI/ML Collaboration & Open Source
+```
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="mailto:shivamraj041100@gmail.com"><img src="https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="https://linkedin.com/in/sraj04"><img src="https://img.shields.io/badge/LinkedIn-6C4AB6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="https://github.com/sraj041100"><img src="https://img.shields.io/badge/GitHub-9333EA?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="https://github.com/sraj041100"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e"/></a>
+
+</div>
+
+---
+
+<div align="center">
+
+*"Code is the closest thing we have to magic — write it with intention."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=150&section=footer"/>
+
+</div>
